@@ -30,7 +30,7 @@ Haxball/
  │    ├── styles.css
  ├── server.js
  ├── package.json
- ├── package-lock.json
+ ├── package-lock.json        #AUTOMATICALLY CREATED - DO NOT COMMIT
  └── README.md
 ```
 
